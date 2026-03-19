@@ -6,12 +6,14 @@ objects_heading: "See the objects behind the stories"
 objects_intro: "Browse {count} objects featured in the stories."
 ---
 
-## Welcome to the Telar Demo Site
-This site showcases the features and capabilities of Telar (v.[{{ site.telar.version }}](https://github.com/UCSB-AMPLab/telar/releases/tag/v{{ site.telar.version }})). Build your own visual narrative exhibition by visiting:
+## Welcome, fellow ULAs!
 
-- Our **[GitHub repository](https://github.com/UCSB-AMPLab/telar)**, where you can copy the template to create your own project
-- The **[documentation site](https://telar.org/docs)**, where you can find guides and tutorials
+This site provides an overview of how you can support fellow students in different departments. Each story will walk you through the challenges students navigate in their course. 
 
-No installation is required: you can manage your content with Google Sheets and publish it for free on GitHub Pages.
+Story 1: How to decode writing assignments
 
-***Note:** To remove or replace this message, edit the `index.md` file in your repository.*
+Story 2: How to provide structured peer review
+
+Story 3: How to take notes effectively
+
+Story 4: Prep for exams, without feeling stressed
